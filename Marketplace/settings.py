@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-*&o$os)(ykzg2!7t&bf__k))zrz4^vp!!kd%ki_b-7a$j_)&!%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gamerzplace-app.onrender.com']
 
 
 # Application definition
